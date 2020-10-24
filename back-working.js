@@ -82,7 +82,4 @@ app.listen(process.env.PORT || 3000, function() {
 
 
 /*IMPORTANT: AFTER MAKING ALL THIS WE NEED TO HEROKU TO GET OUR NEWSLETTER ONLINE. */
-// API ID :  8ca60774e1f75ab02e0b7ca3da287b70-us10
-// UNIQUE id : 721257a1f2
-// E-MAIL: Shubhanshu480
-//secret-shore-03792 
+//for other stuffs read secrets file
